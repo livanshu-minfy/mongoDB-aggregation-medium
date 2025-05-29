@@ -18,3 +18,12 @@ i was assigned some tasks and asked to perform them and attach the screenshots t
 ![image](https://github.com/user-attachments/assets/55049fd1-ec3b-45f1-98e5-f605655ced88)
 
 ![image](https://github.com/user-attachments/assets/9be12c35-2208-49eb-a965-87bc4463ca61)
+
+**3. Products Added in February 2023:**
+
+- **Task:** List the `name`, `category`, and the `date_added` (formatted as "YYYY-MM-DD") for products added in February 2023.
+- **Hint:** Use `$match` with date range conditions on `date_added`. Then use `$project` with `$dateToString` to format the date.
+
+![image](https://github.com/user-attachments/assets/019e6d1d-2329-4e4e-9be0-d73ee06a6eb6)
+
+I have attached queries and their outputs in the screenshots and copy pasted the questions from the provided notion file.
